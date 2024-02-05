@@ -1,4 +1,4 @@
-theme: jekyll-theme-Minimal
+theme: jekyll-theme-minimal
 
 # Music Recommendation Sytem
 
