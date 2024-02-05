@@ -1,3 +1,5 @@
+theme: jekyll-theme-Minimal
+
 # Music Recommendation Sytem
 
 ## Through analysing a century's music data, patterns and trends that can predict a song's popularity and align with user preferences were identified. The project successfully integrated multiple unsupervised learning algorithms, like K-Means and DBSCAN, which, along with similarity measures and feature engineering techniques, contributed to developing a more nuanced recommendation system. This system can offer personalized playlists by considering an array of factors such as genre, mood, and tempo, thus providing a more satisfying user experience in music discovery on Spotify. 
