@@ -1,12 +1,12 @@
-# DATA SCIENTIST
+## DATA SCIENTIST
 
-## SKILLS:
+### SKILLS:
 
-## EDUCATION:
+### EDUCATION:
 
-## WORK EXPERIENCE:
+### WORK EXPERIENCE:
 
-## PROJECTS:
+### PROJECTS:
 
 ### Music Recommendation Sytem
 
